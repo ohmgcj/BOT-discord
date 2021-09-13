@@ -1,0 +1,5 @@
+this algorithm should only work with the Discord.JS library
+
+
+Follow the link below for installation:
+<https://discord.js.org/#/>
